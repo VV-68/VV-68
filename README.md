@@ -77,9 +77,13 @@ LinkedIn-like platform for local jobs and gig work with role-based workflows.
 # 📊 GitHub Stats
 
 <p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=VV-68&theme=dark&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.shion.dev/api?username=VV-68&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=VV-68&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VV-68&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vv01) 
