@@ -5,7 +5,7 @@
 </h1>
 
 
-## 👨‍💻 About Me<br><br>Full-stack MERN developer with a focus on backend systems, APIs, and real-time applications.  <br>I build fast, scalable, and practical web applications that solve real problems.
+## 👨‍💻 About Me<br><br>Full-stack developer with a focus on backend systems, APIs, and real-time applications.  <br>I build fast, scalable, and practical web applications that solve real problems.
 
 
 ## 🌐 Socials:
@@ -85,8 +85,8 @@ LinkedIn-like platform for local jobs and gig work with role-based workflows.
 </p>
 
 
-  ## 💰 You can help me by Donating
+ <!--  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vv01) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
