@@ -16,6 +16,38 @@
 
 ## 🚀 My Projects
 
+### 🔹 CursusOS
+
+Comprehensive academic management platform designed to streamline student, faculty, and administrative workflows.
+
+* Student information and academic record management
+* Course enrollment and attendance tracking
+* Assessment and grading management
+* Faculty and administrator dashboards
+* Secure authentication and role-based access control
+* Built using Node.js, Express.js, MySQL, and REST APIs
+
+👉 https://cursus-os.vercel.app/     
+👉 https://github.com/VV-68/CursusOS
+
+---
+
+### 🔹 Commit Storyteller
+
+AI-powered Git analysis CLI that transforms code changes into human-readable development artifacts.
+
+* Generates commit messages from Git diffs
+* Creates pull request descriptions and release notes
+* Automated code review and change analysis
+* Supports multiple Gemini models with fallback handling
+* Cross-platform CLI binaries (Windows, Linux, macOS)
+* Built with Python, Typer, GitPython, SQLite, Rich, and Gemini API
+
+👉 https://github.com/VV-68/commit-storyteller
+
+---
+
+
 ### 🔹 SmartPlace
 
 Full-stack placement management system with real-time workflows and strict access control.
@@ -41,10 +73,11 @@ AI-powered language learning platform with structured progression and adaptive p
 * Multiple languages & practice formats
 * Built using Google Gemini API
 
-👉 https://linguly.vercel.app
+👉 https://linguly.vercel.app     
 👉 https://github.com/Vivek-Hari04/Linguly
 
 ---
+
 
 ### 🔹 Resume Customization AI
 
@@ -56,24 +89,8 @@ AI tool that tailors resumes based on job descriptions for better ATS performanc
 * Skill relevance scoring
 * Export-ready resumes
 
-👉 https://andrewjerryv.github.io/Hack-Net/
+👉 https://andrewjerryv.github.io/Hack-Net/     
 👉 https://github.com/AndrewJerryV/Hack-Net
-
----
-
-### 🔹 Job-Seeker
-
-LinkedIn-like platform for local jobs and gig work with role-based workflows.
-
-* Worker & Employer role system
-* Job posting and application flow
-* Employer-side applicant selection
-* PostgreSQL-based relational design
-* Backend built with Go (Gin framework)
-
-👉 https://github.com/Vivek-Hari04/DBMS-project
-
-
 # 📊 GitHub Stats
 
 <p align="center">
